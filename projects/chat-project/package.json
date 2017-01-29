@@ -1,0 +1,11 @@
+{
+	"name": "superchat",
+	"version": "0.1.0",
+	"dependencies": {
+		"express": "~4.11.0",
+		"socket.io": "~1.2.1",
+		"ent": "~0.1.0"
+	},
+	"author": "redazouhairi <zouhairireda@gmail.com>",
+	"description": "super real time chat"
+}
